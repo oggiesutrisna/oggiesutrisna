@@ -1,4 +1,3 @@
-# Hi, 
 ## Oggie Sutrisna
 - December 5, 1996
   - Born in Badung, Bali
@@ -6,27 +5,28 @@
        
 
 ## Where i work 
-- Full Time
-  - Hydromedical as 
+  ### Hydromedical [ Full Time ] 
     - Junior Software Engineer & Editor
       - Junior Content Creator
         - Junior Content Designer
 
-- Part Timing
+ ### Part Time
   - Online Portfolio for everyone
-    - Photography
-      - Gojek dom. Bali as Junior Software Tester
-
-
+    - Photographer
+      - Junior Software Tester @ GOJEK Dom. Bali
+        - Software Engineer @ Mertha Coffee
+          
 ## What i working on 
   - Developing for www.unicare-clinic.com
   - Making CV Online for everyone
   - Crispylogger for everybody
   - Making a report for Gojek lead tech developer
-  - Shares an idea for the future.
+  - Shares an idea for the future
+  - Eat Mie Ayam for life
+  
   
 ## Where you can find me 
   - Instagram = @oggiesutrisna_
   - twitter   = @oggiesutrisna
   - facebook  = nah, i don't have facebook 
-  - Linkedin  = Oggie Sutrisna (probably)
+  - Linkedin  = Oggie Sutrisna (might be)
