@@ -14,7 +14,7 @@
 
 ##  Am i working rn? of course
   - Developing for www.unicare-clinic.com
-  - Thats it. 
+  - Updates every 2 weeks for Crispylogger and i will be release the logger in 2021.
 
 ## Where you can find me other than github? 
   - Instagram = @oggiesutrisna_
