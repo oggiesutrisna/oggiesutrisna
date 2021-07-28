@@ -5,4 +5,4 @@
   - Nationality : Indonesia, of course dude im a Indonesian.
 ## Where do i work?
  ### Full Time
-  - Junior Software Engineer and Editor @ Hydromedical
+  - Adaptive Job Desk @ Hydromedical
