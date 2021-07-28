@@ -8,4 +8,5 @@
 ## Interested in .
   - Laravel / Web Development
   - Python for .exe program
-no one can be expert at one time, but they can learn anytime. -Einstein
+## Quote
+  - no one can be expert at one time, but they can learn anytime. -Einstein
