@@ -1,1 +1,1 @@
-  - no one can be expert at one time, but they can learn anytime. -Einstein
+  - no one can't be expert at one time, but they can learn anytime. -Einstein
